@@ -1,4 +1,4 @@
-# Advent of code 2022
+# Advent of code 2022 🎅🏻
 
 This repositor contains my answers to the Advent of code 2022. All the answers are written in TypeScript.
 
