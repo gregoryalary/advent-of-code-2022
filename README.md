@@ -1,4 +1,4 @@
-# Advent of code 2022 🎅🏻
+# 🎅🏻 Advent of code 2022 &middot; ![](https://img.shields.io/badge/days%20completed-3-red) ![](https://img.shields.io/badge/stars%20⭐-6-yellow)
 
 This repositor contains my answers to the Advent of code 2022. All the answers are written in TypeScript.
 
